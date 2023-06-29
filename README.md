@@ -9,7 +9,8 @@ Screenshots:
 ![Screenshot 2023-06-29 222417](https://github.com/TheRexishere/PersonalTutor/assets/95215534/248ccebb-3db0-4edb-ba98-567d609bcf6a)
 ![Screenshot 2023-06-29 222438](https://github.com/TheRexishere/PersonalTutor/assets/95215534/2bc658a6-7477-4f85-bea6-03757fb5eec9)
 ![Screenshot 2023-06-29 222456](https://github.com/TheRexishere/PersonalTutor/assets/95215534/90d47af1-983e-421a-9ef5-999bbbad379a)
-![Screenshot 2023-06-29 222525](https://github.com/TheRexishere/PersonalTutor/assets/95215534/2342746f-8b1f-43a5-b493-e5d87b1acee7)
+![Screenshot 2023-06-29 222525](https://github.com/TheRexishere/PersonalTutor/assets/95215534/ed15b25a-63dc-4d95-bbc3-95495d3ae2cb)
+
 
 
 
